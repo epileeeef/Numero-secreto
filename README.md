@@ -1,2 +1,2 @@
-# Jogo do numero secreto
-Advinhe um numero de 1 a 10
+# Jogo do número secreto
+Advinhe um número de 1 a 10
